@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ModuloTest</string>
+    <string name="action_filter">Filter</string>
+    <string name="light">Light</string>
+    <string name="heater">Heater</string>
+    <string name="rollershutter">RollerShutter</string>
+    <string name="product_type">Product Type</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="this_is_list_of_product">List of product</string>
+</resources>
